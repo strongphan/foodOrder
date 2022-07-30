@@ -1,0 +1,11 @@
+.main-header .sidebar-toggle:before {
+  content: "";
+}
+
+.content-wrap {
+  min-height: 0 !important;
+  overflow: auto;
+}
+.user-panel {
+  min-height: 60px;
+}
